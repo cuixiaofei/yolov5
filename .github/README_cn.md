@@ -1,4 +1,14 @@
 <div align="center">
+
+
+<p>
+个人使用的进行了备份，可能会做一点点修改，主要是使用git进行了版本管理，上传只是为了方便。
+不会请求pull request，水平差的很远，不过亲自试过是可以用的，另外需要任何帮助都可以在github上直接联系我，感谢在网络上分享的各位大佬。
+</p>
+
+
+
+
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
    <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
