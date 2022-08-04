@@ -499,7 +499,7 @@ def check_dataset(data, autodownload=True):
             data[k] = str(path / data[k]) if isinstance(data[k], str) else [str(path / x) for x in data[k]]
 
     # Parse yaml
-    train, val, test, s = (data.get(x) for x in ('train', 'val', 'test', 'download'))
+    train, val, test, s = (data.get(x) for x in ('train', 'valid', 'test', 'download'))
     if val:
         val = [Path(x).resolve() for x in (val if isinstance(val, list) else [val])]  # val path
         if not all(x.exists() for x in val):
