@@ -1,0 +1,6 @@
+path: C:\workarea\datasets\datavit
+train: train/images
+val: valid/images
+nc: 1
+names:
+- vit
