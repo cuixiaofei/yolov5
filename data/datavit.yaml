@@ -1,6 +1,5 @@
-path: C:\workarea\datasets\datavit
+path: D:\workarea\datasets\datavit
 train: train/images
 val: valid/images
 nc: 1
-names:
-- vit
+names: ['vit']
