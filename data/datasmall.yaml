@@ -1,0 +1,8 @@
+path: D:\workarea\datasets\small
+train: train/images
+val: valid/images
+nc: 3
+names:
+- full
+- empty
+- half
